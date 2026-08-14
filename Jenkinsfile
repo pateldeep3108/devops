@@ -7,7 +7,7 @@ pipeline {
             steps {
                 echo 'Checking out source code...'
                 git branch: 'main',
-                    url: 'https://github.com/USERNAME/REPOSITORY.git'
+                    url: 'https://github.com/pateldeep3108/devops.git'
             }
         }
 
